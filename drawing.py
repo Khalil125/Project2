@@ -1,6 +1,6 @@
 from turtle import *
 
-speed(0)
+speed(0.7)
 bgcolor("midnightblue")
 
 # Grass
